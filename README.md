@@ -1,4 +1,4 @@
-## Recent MS graduate with concentrations in operations research and data analytics
-- I started programming in Python and R for statistical analysis as an undergraduate at the United States Naval Academy
-- I developed competence in mathematical optimization, simulation, stochastics, and operational machine learning as a graduate student at the Naval Postgraduate School
-- I am now looking to apply my academic knowledge in economics, operations research, and data analytics to problems faced by military, government, and private sector decision makers
+## Data Analyst
+•Recent MS graduate from the Department of Operations Research at the Naval Postgraduate School with a concentration in data science. 
+•Qualified Operations Analysis Subspecialist (U.S. Navy subspecialty code 3211P).
+•Academic experience building machine learning programs in Python and R.
