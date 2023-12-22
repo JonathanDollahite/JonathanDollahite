@@ -1,4 +1,4 @@
-## Data Analyst
-- MS graduate from the Department of Operations Research at the Naval Postgraduate School with a concentration in data science. 
+## Operations Analyst
+- MS graduate from the Department of Operations Research at the Naval Postgraduate School with a concentration in operational data science. 
 - Qualified Operations Analysis Subspecialist (U.S. Navy subspecialty code 3211P).
-- Experience building machine learning programs in Python and R.
+- Experience in mathematical optimization, stochastic computer simulation, and machine learning.
